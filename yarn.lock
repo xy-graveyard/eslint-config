@@ -633,7 +633,7 @@ __metadata:
     "@types/node": ^18.0.0
     "@typescript-eslint/eslint-plugin": ^5.29.0
     "@typescript-eslint/parser": ^5.29.0
-    "@xylabs/tsconfig": ^1.0.13
+    "@xylabs/tsconfig": ^1.0.14
     eslint: ^8.18.0
     eslint-config-prettier: ^8.5.0
     eslint-import-resolver-typescript: ^2.7.1
@@ -655,12 +655,12 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@xylabs/tsconfig@npm:^1.0.13":
-  version: 1.0.13
-  resolution: "@xylabs/tsconfig@npm:1.0.13"
+"@xylabs/tsconfig@npm:^1.0.14":
+  version: 1.0.14
+  resolution: "@xylabs/tsconfig@npm:1.0.14"
   dependencies:
-    tslib: ^2.3.1
-  checksum: 7d6841afd7e7bcab907b71be8bcf1e4c87670e38b23bc5a91036f336c7a327a42bce67f3d6dc95dc0a08addd9bc59c2d0fab8ed6962f9927c9f9eec0ebf168e6
+    tslib: ^2.4.0
+  checksum: 33732db9e1e175a55e56e1c34598583e33f3afd5a73538bb674dfd7f3b7d524a394b6e674c6cb0a06df9d62ddd9b94e93480d3de32bea3cfb85c82307f8343e7
   languageName: node
   linkType: hard
 
@@ -3103,11 +3103,11 @@ __metadata:
   linkType: hard
 
 "prettier@npm:^2.7.1":
-  version: 2.7.1
-  resolution: "prettier@npm:2.7.1"
+  version: 2.8.6
+  resolution: "prettier@npm:2.8.6"
   bin:
     prettier: bin-prettier.js
-  checksum: 55a4409182260866ab31284d929b3cb961e5fdb91fe0d2e099dac92eaecec890f36e524b4c19e6ceae839c99c6d7195817579cdffc8e2c80da0cb794463a748b
+  checksum: 8ac94fa67aec0e65743ea15ebf954ef2f1e52638abd129dc04e8b49e8bb3224c0233c98df6b5c98efd31bd2a43866590486559438ee4ead09dc81be389068572
   languageName: node
   linkType: hard
 
